@@ -18,9 +18,3 @@
 ---
 
 N'hésitez pas à ouvrir un post dans [Issue](https://github.com/dnoe-pro/Granyte_release/issues) si vous avez des bugs ou des suggestions.
-
----
-
-## Licence
-
-Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
